@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //Desafio usando conversao e tags anteriores
-public class conversaodesafio {
+public class ConversaoDesafio {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 

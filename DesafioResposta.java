@@ -1,4 +1,4 @@
-public class desafioresposta{
+public class DesafioResposta{
 	public static void main(String[] args) {
 		double numA = Math.pow(6* (3+2),2);
 		double denA = 3 * 2;
